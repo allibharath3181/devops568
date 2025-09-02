@@ -4,3 +4,4 @@ this is a demo for read me
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=c&labelColor=abcdef&color=fedcba&cacheSeconds=3600)
 https://github.com/allibharath3181/devops568/blob/master/file1.java
 https://github.com/allibharath3181/devops568/blob/master/file2.java
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
